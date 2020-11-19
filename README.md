@@ -1,1 +1,13 @@
-# This-is-just-a-simple-project-for-data-record-in-Database-in-a-graphical-user-interface.
+## This is a Java swing application. 
+
+### Features:
+   - Create,
+   - Read,
+   - Update, 
+   - Delete
+    
+### Technologies:
+   - Language:Java Swing;
+   - Tools:Intellij Idea;
+   - ORMTool:HibernateFramework+Swing,
+   - Database:MySql
